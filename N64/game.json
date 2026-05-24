@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Super Mario 64",
+        "icon": "images/Super Mario 64.jpg", 
+        "description": "《超级马里奥64》是任天堂的3D平台动作游戏，首次将马里奥带入自由探索的立体世界，通过跳跃、攀爬和收集力量之星推进关卡，奠定了3D动作游戏的设计基础。",
+        "url": "N64/Super Mario 64.z64" 
+    },
+    {
+        "name": "Mario Kart 64",
+        "icon": "images/MarioKart64.jpg", 
+        "description": "《马里奥赛车64》是任天堂在1996年为 Nintendo 64 主机推出的一款经典赛车游戏。它是马里奥赛车系列的第二部作品，也是系列中第一款使用 3D 场景的版本。",
+        "url": "N64/Mario Kart 64.z64" 
+    },
+    {
+        "name": "Super Smash Bros",
+        "icon": "images/Super Smash Bros.jpg", 
+        "description": "《任天堂明星大乱斗》是任天堂推出的乱斗型格斗游戏，汇集马里奥、塞尔达等角色在平台场景对战，通过击飞对手取胜，操作易上手但竞技深度高，适合多人同乐。",
+        "url": "N64/Super Smash Bros.z64" 
+    },
+    {
+        "name": "Legend of Zelda Ocarina of Time",
+        "icon": "images/Legend of Zelda Ocarina of Time.jpg", 
+        "description": "《塞尔达传说：时之笛》是任天堂1998年推出的3D动作冒险游戏，玩家扮演林克，借助时之笛穿越时间，探索海拉鲁、解谜战斗，影响深远，被誉为游戏史经典之作。",
+        "url": "N64/Legend of Zelda Ocarina of Time.z64" 
+    },
+    {
+        "name": "Animal Forest",
+        "icon": "images/Animal Forest.jpg", 
+        "description": "《动物森友会》是任天堂开发并发行的一款社交模拟类系列游戏。在一个与现实时间完全同步的童话世界里，和一群可爱的拟人化动物村民一起，没有任何压力地随心生活。",
+        "url": "N64/Animal Forest.z64" 
+    }
+]
